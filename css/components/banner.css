@@ -1,0 +1,32 @@
+.banner {
+  background-image: url(../../images/fond4.jpg);
+  background-position: center;
+  padding: 25px;
+  color: white;
+}
+.banner h1 {
+  padding-left: 10px;
+  padding-top: 275px;
+  color: white;
+  font-family: avenir; 
+  font-size: 30px; 
+  line-height: 1.6;
+  letter-spacing: 3px;
+  font-weight: bolder;
+  text-justify: center; 
+  height: 25px;
+}
+.banner h2 {
+  padding-left: 10px;
+  color: white;
+  font-family: avenir; 
+  font-size: 17px; 
+  line-height: 1.6;
+  letter-spacing: 3px;
+  font-weight: bolder; 
+  text-justify: center;
+  height: 30px;
+}
+.banner btn-green {
+  padding-left: 10px;
+}

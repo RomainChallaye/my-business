@@ -1,0 +1,53 @@
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/card.css");
+
+body {
+	background-color: white;
+	color: black;
+	font-family: avenir; 
+	font-size: 17px; 
+	line-height: 1.6;
+	letter-spacing: 3px;
+	font-weight: lighter;
+	text-justify: center;
+}
+h1 {
+	color: black;
+	font-family: avenir; 
+	font-size: 17px; 
+	line-height: 1.6;
+	letter-spacing: 3px;
+	font-weight: bolder; 
+	text-justify: center;	
+}
+h2 {
+	padding-left: 10px;
+	color: black;
+	font-family: avenir; 
+	font-size: 20px; 
+	line-height: 1.6;
+	letter-spacing: 3px;
+	font-weight: bolder; 
+	text-justify: center;
+}
+h3 {
+	color: black;
+	font-family: avenir; 
+	font-size: 17px; 
+	line-height: 1.6;
+	letter-spacing: 3px;
+	font-weight: bolder; 
+	text-justify: center;
+}
+a {
+	font-family: avenir; 
+	text-decoration: none;
+	color: #abd872;
+	font-weight: 1000;
+	font-size: 30px;
+}
+a: hover {
+	color: black;
+}
